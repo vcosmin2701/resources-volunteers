@@ -21,3 +21,9 @@ Oricine poate contribui la acest proiect! Iată câteva moduri în care poți aj
 
 Pentru a menține proiectul organizat, te rugăm să urmezi aceste reguli atunci când contribui:
 - Adaugă un link către resurse în formatul ``` [Titlul Resursei](link) - O descriere scurtă. ```
+- Toate resursele o sa fie scrise momentan in acest document, la sectiunea #Resurse
+
+
+# Resurse
+
+[FREE-GITHUB PACK](https://education.github.com/pack) - O multitudine de platforme gratuite oferite in parteneriat cu GitHub,pentru elevi si studenti.
