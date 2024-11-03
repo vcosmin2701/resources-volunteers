@@ -27,3 +27,4 @@ Pentru a menține proiectul organizat, te rugăm să urmezi aceste reguli atunci
 # Resurse
 
 [FREE-GITHUB PACK](https://education.github.com/pack) - O multitudine de platforme gratuite oferite in parteneriat cu GitHub,pentru elevi si studenti.
+[C#](https://www.w3schools.com/cs/index.php) - Introducere in C#
